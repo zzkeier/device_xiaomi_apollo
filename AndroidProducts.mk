@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_apollo.mk
+    $(LOCAL_DIR)/eier_apollo.mk
